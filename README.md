@@ -14,10 +14,11 @@ Soy un desarrollador Backend en EnergiIA enfocado en la construcción de solucio
 * **Estrategias Multicloud:** Gestión, entornos y laboratorios en la nube (Cloud Labs).
 
 ### 💻 Desarrollo Backend y Frontend:
-* **Python:** Lenguaje principal de desarrollo y lógica de negocio.
-* **Node.js:** Desarrollo del entorno de ejecución backend y ecosistema JavaScript.
-* **JavaScript:** Desarrollo web avanzado y lógica del lado del cliente.
-* **React:** Construcción de interfaces de usuario modernas y componentes interactivos.
+* **Java:** Lenguaje robusto para el diseño de arquitectura empresarial y lógica de negocio.
+* **Spring Boot:** Framework para la creación de microservicios y aplicaciones RESTful eficientes.
+* **Python:** Desarrollo y automatización backend.
+* **Node.js:** Entorno de ejecución para aplicaciones escalables del lado del servidor.
+* **JavaScript / React:** Desarrollo web moderno y construcción de interfaces de usuario interactivas.
 
 ### ⚙️ Herramientas de DevOps:
 * **Docker:** Contenedores y virtualización de entornos de desarrollo.
