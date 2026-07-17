@@ -15,7 +15,7 @@
 | Categoría | Tecnologías Disponibles |
 | :--- | :--- |
 | **Lenguajes y Frameworks** | `Python` • `Node.js` • `JavaScript` • `React` |
-| **Nube e IA** | `Google Cloud`  • `OpenAI` • `Gemini` • `ChatGPT` |
+| **Nube e IA** | `Google Cloud`  • `Oracle Cloud`• `OpenAI` • `Gemini` • `ChatGPT` |
 | **Herramientas** | `Docker` • `Git` • `GitHub` |
 
 ---
