@@ -1,25 +1,31 @@
-# Hi there 👋
+# 🚀 Fernando Saldaña
 
-### 🚀 Sobre Mí
-- 🔭 Actualmente trabajo como **Backend Developer** en **EnergiIA**
-- 🌱 Estoy aprendiendo sobre **Agentes de IA** y estrategias **Multicloud**
-- 👯 Busco colaborar en **proyectos de código abierto e innovación tecnológica**
-- 🤔 Busco ayuda con **laboratorios y entornos Cloud (Cloud Labs)**
-- 💬 Pregúntame sobre **Gemini, ChatGPT y Antigravity**
-- ⚡ Dato curioso: **Me encanta el anime y comer en Ichiraku**
+## 👨‍💻 Sobre Mí
+
+Soy un desarrollador Backend en EnergiIA enfocado en la construcción de soluciones eficientes y escalables. Apasionado por la inteligencia artificial, la automatización mediante agentes y el diseño de arquitecturas robustas, siempre me encuentro explorando nuevas herramientas para optimizar procesos de software.
 
 ---
 
-### 🛠️ Mis Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-| Categoría | Tecnologías Disponibles |
-| :--- | :--- |
-| **Lenguajes y Frameworks** | `Python` • `Node.js` • `JavaScript` • `React` |
-| **Nube e IA** | `Google Cloud`  • `Oracle Cloud`• `OpenAI` • `Gemini` • `ChatGPT` |
-| **Herramientas** | `Docker` • `Git` • `GitHub` |
+### 🚀 Inteligencia Artificial y Nube:
+* **Agentes de IA:** Tecnologías orientadas a la automatización e inteligencia artificial.
+* **Modelos LLM:** OpenAI (ChatGPT), Google (Gemini) y Antigravity.
+* **Estrategias Multicloud:** Gestión, entornos y laboratorios en la nube (Cloud Labs).
+
+### 💻 Desarrollo Backend y Frontend:
+* **Python:** Lenguaje principal de desarrollo y lógica de negocio.
+* **Node.js:** Desarrollo del entorno de ejecución backend y ecosistema JavaScript.
+* **JavaScript:** Desarrollo web avanzado y lógica del lado del cliente.
+* **React:** Construcción de interfaces de usuario modernas y componentes interactivos.
+
+### ⚙️ Herramientas de DevOps:
+* **Docker:** Contenedores y virtualización de entornos de desarrollo.
+* **Git / GitHub:** Control de versiones distribuido y colaboración de código.
 
 ---
 
-### 📫 Cómo contactarme
-- **LinkedIn:** [fernando-saldaña](https://linkedin.com)
-- **Email:** fercho22savi@gmail.com
+## 📫 Cómo contactarme
+
+* **LinkedIn:** [Fernando Saldaña](https://linkedin.com)
+* **Email:** [fercho22savi@gmail.com](mailto:fercho22savi@gmail.com)
