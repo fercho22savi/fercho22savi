@@ -1,26 +1,31 @@
 # Hi there 👋
 
 ### 🚀 Sobre Mí
-- 🔭 Actualmente estoy trabajando en **[EnergiIA - backend developer]**
-- 🌱 Estoy aprendiendo **[Agentes de IA ,multicloud]**
-- 👯 Busco colaborar en **[proyectos]**
-- 🤔 Busco ayuda con **[Labs clouds]**
-- 💬 Pregúntame sobre **[Gemini - ChatGpt - Antigravity]**
-- ⚡ Dato curioso: **[Me gustan los animes y la comida de ichiraku]**
+- 🔭 Actualmente trabajo como **Backend Developer** en **EnergiIA**
+- 🌱 Estoy aprendiendo sobre **Agentes de IA** y estrategias **Multicloud**
+- 👯 Busco colaborar en **proyectos de código abierto e innovación tecnológica**
+- 🤔 Busco ayuda con **laboratorios y entornos Cloud (Cloud Labs)**
+- 💬 Pregúntame sobre **Gemini, ChatGPT y Antigravity**
+- ⚡ Dato curioso: **Me encanta el anime y comer en Ichiraku**
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
 #### Lenguajes y Frameworks
-![JavaScript](https://shields.io)
 ![Python](https://shields.io)
-![React](https://shields.io)
 ![NodeJS](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+
+#### Nube e Inteligencia Artificial
+![Google Cloud](https://shields.io)
+![AWS](https://shields.io)
+![OpenAI](https://shields.io)
 
 #### Herramientas
-![Git](https://shields.io)
 ![Docker](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
@@ -34,5 +39,5 @@
 ---
 
 ### 📫 Cómo contactarme
-[[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)](https://www.linkedin.com/in/fernando-salda%C3%B1a/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/fernando-salda%C3%B1a/)
 [![Email](https://shields.io)](mailto:fercho22savi@gmail.com)
