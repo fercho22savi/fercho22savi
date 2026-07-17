@@ -34,5 +34,5 @@
 ---
 
 ### 📫 Cómo contactarme
-[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
+[[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)](https://www.linkedin.com/in/fernando-salda%C3%B1a/)
 [![Email](https://shields.io)](mailto:tu-correo@gmail.com)
