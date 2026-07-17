@@ -10,7 +10,7 @@ Soy un desarrollador Backend en EnergiIA enfocado en la construcción de solucio
 
 ### 🚀 Inteligencia Artificial y Nube:
 * **Agentes de IA:** Tecnologías orientadas a la automatización e inteligencia artificial.
-* **Modelos LLM:** OpenAI (ChatGPT), Google (Gemini) y Antigravity.
+* **Modelos LLM:** OpenAI (ChatGPT), Google (Gemini).
 * **Estrategias Multicloud:** Gestión, entornos y laboratorios en la nube (Cloud Labs).
 
 ### 💻 Desarrollo Backend y Frontend:
@@ -20,9 +20,11 @@ Soy un desarrollador Backend en EnergiIA enfocado en la construcción de solucio
 * **Node.js:** Entorno de ejecución para aplicaciones escalables del lado del servidor.
 * **JavaScript / React:** Desarrollo web moderno y construcción de interfaces de usuario interactivas.
 
-### ⚙️ Herramientas de DevOps:
+### ⚙️ Herramientas de DevOps y Extras:
 * **Docker:** Contenedores y virtualización de entornos de desarrollo.
 * **Git / GitHub:** Control de versiones distribuido y colaboración de código.
+* **Antigravity:** Módulo legendario de Python para hacer que el código vuele libre de gravedad.
+
 
 ---
 
