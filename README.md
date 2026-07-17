@@ -12,32 +12,14 @@
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
-#### Lenguajes y Frameworks
-![Python](https://shields.io)
-![NodeJS](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-
-#### Nube e Inteligencia Artificial
-![Google Cloud](https://shields.io)
-![AWS](https://shields.io)
-![OpenAI](https://shields.io)
-
-#### Herramientas
-![Docker](https://shields.io)
-![Git](https://shields.io)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de fercho22savi" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados por fercho22savi" width="48%" />
-</p>
+| Categoría | Tecnologías Disponibles |
+| :--- | :--- |
+| **Lenguajes y Frameworks** | `Python` • `Node.js` • `JavaScript` • `React` |
+| **Nube e IA** | `Google Cloud`  • `OpenAI` • `Gemini` • `ChatGPT` |
+| **Herramientas** | `Docker` • `Git` • `GitHub` |
 
 ---
 
 ### 📫 Cómo contactarme
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:fercho22savi@gmail.com)
+- **LinkedIn:** [fernando-saldaña](https://linkedin.com)
+- **Email:** fercho22savi@gmail.com
