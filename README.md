@@ -39,5 +39,5 @@
 ---
 
 ### 📫 Cómo contactarme
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/fernando-salda%C3%B1a/)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](mailto:fercho22savi@gmail.com)
