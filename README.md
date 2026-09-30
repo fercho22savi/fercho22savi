@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador Backend en EnergiIA enfocado en la construcción de soluciones eficientes y escalables. Apasionado por la inteligencia artificial, la automatización mediante agentes y el diseño de arquitecturas robustas, siempre me encuentro explorando nuevas herramientas para optimizar procesos de software.
+Soy un desarrollador Backend enfocado en la construcción de soluciones eficientes y escalables. Apasionado por la inteligencia artificial, la automatización mediante agentes y el diseño de arquitecturas robustas, siempre me encuentro explorando nuevas herramientas para optimizar procesos de software.
 
 ---
 
